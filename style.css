@@ -1,0 +1,17 @@
+.body{
+    background-image: url(home.png);
+    background-repeat: no-repeat;
+    background-color: yellow;
+}
+h2{
+    color: white;
+    margin-top: 50px;
+    margin-left: 200px;
+
+;
+}
+p{
+    color: white;
+   
+    margin-right:100px ;
+}
